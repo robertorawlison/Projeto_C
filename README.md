@@ -1,12 +1,12 @@
-# Projeto_C
-Projeto da Disciplina de Programação Estruturada
+## Projeto_C
+#Projeto da Disciplina de Programação Estruturada
 
-#Integrantes
-*Roberto Rawlison
-*Samuel José
-*Jonata Henrique
-*Josué Abrantes
-*Leo Jaime
+##Integrantes
+  -Roberto Rawlison
+  -Samuel José
+  -Jonata Henrique
+  -Josué Abrantes
+  -Leo Jaime
 
 #Referências
 
