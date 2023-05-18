@@ -3,11 +3,11 @@
 
 ##Integrantes
 
-  -Roberto Rawlison
-  -Samuel José
-  -Jonata Henrique
-  -Josué Abrantes
-  -Leo Jaime
+  - Roberto Rawlison
+  - Samuel José
+  - Jonata Henrique
+  - Josué Abrantes
+  - Leo Jaime
 
 #Referências
 
