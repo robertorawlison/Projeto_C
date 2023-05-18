@@ -1,5 +1,5 @@
-## Projeto_C
-# Projeto da Disciplina de Programação Estruturada
+# Projeto_C
+## Projeto da Disciplina de Programação Estruturada
 
 ## Integrantes
 
@@ -9,6 +9,6 @@
   - Josué Abrantes
   - Leo Jaime
 
-# Referências
+## Referências
 
 [Kaggle - Heart Disease Indicators](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
