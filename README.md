@@ -9,4 +9,5 @@ Projeto da Disciplina de Programação Estruturada
 *Leo Jaime
 
 #Referências
-[Kaggle - Music & Mental Health Survey Results] (https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)
+
+[Kaggle - Heart Disease Indicators](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
