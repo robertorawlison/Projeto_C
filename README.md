@@ -1,7 +1,7 @@
 ## Projeto_C
-#Projeto da Disciplina de Programação Estruturada
+# Projeto da Disciplina de Programação Estruturada
 
-##Integrantes
+## Integrantes
 
   - Roberto Rawlison
   - Samuel José
@@ -9,6 +9,6 @@
   - Josué Abrantes
   - Leo Jaime
 
-#Referências
+# Referências
 
 [Kaggle - Heart Disease Indicators](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
