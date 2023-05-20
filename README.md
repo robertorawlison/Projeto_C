@@ -11,4 +11,4 @@
 
 ## Referências
 
-[Kaggle - Heart Disease Indicators](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
+[Music & Mental Health Survey Results](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)
