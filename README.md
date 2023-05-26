@@ -1,4 +1,4 @@
-# Projeto_C
+# Projeto C
 ## Projeto da Disciplina de Programação Estruturada
 
 ## Integrantes
